@@ -1,0 +1,4 @@
+Model: ResNet18
+Accuracy: 73.5%
+F1 Score: 72.0%
+Epochs: 10
